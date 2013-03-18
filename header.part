@@ -9,25 +9,24 @@
     <meta name="keywords" content="LPOO, IMECC, UNICAMP, Laboratório, Pesquisa, Operacional, Otimização">
   </head>
 
+
   <body>
-
     <div class="wall">
-
       <div class="title">
-        <a href="introduction.html" target="content-frame"> <img src="assets/lpoo.png"> </a>
+        <a href="index.html"> <img src="assets/lpoo.png"> </a>
       </div>
 
       <div class="links">
         <hr>
-        <table class="links-table">
-          <tr class="links-table">
-            <td class="links-td"><a href="membros.html" target="content-frame">
+        <table>
+          <tr>
+            <td><a href="membros.html">
                 Membros</a></td>
-            <td class="links-td"><a href="professores.html" target="content-frame">
+            <td><a href="professores.html">
                 Professores</a></td>
-            <td class="links-td"><a href="reunioes.html" target="content-frame">
+            <td><a href="reunioes.html">
                 Reuniões</a></td>
-            <td class="links-td"><a href="tutoriais.html" target="content-frame">
+            <td><a href="tutoriais.html">
                 Tutoriais</a></td>
           </tr>
         </table>
@@ -36,7 +35,4 @@
 
       <div class="social">
       </div>
-    
-  </body>
 
-</html>
