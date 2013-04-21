@@ -4,16 +4,16 @@ membros ou ex-membros do LPOO
 </p>
 <hr>
 
-<h2><a href="https://github.com/abelsiqueira/CUTEr-Problem-Chooser"> Separador de Problemas do CUTEr </a></h2>
+<h4><a href="https://github.com/abelsiqueira/CUTEr-Problem-Chooser"> Separador de Problemas do CUTEr </a></h4>
 <blockquote>
 Rotina para separar problemas de interesse do repositório CUTEr. 
 Feito por Leandro Prudente, em Fortran, com um script de Raniere Gaia 
 Costa da Silva para pegar os arquivos da internet.
 </blockquote>
 
-<h2><a href="https://github.com/abelsiqueira/tutoriais/blob/master/CUTEr/cuter_pt_br.pdf?raw=true">CUTEr</a> 
+<h4><a href="https://github.com/abelsiqueira/tutoriais/blob/master/CUTEr/cuter_pt_br.pdf?raw=true">CUTEr</a> 
 (Códigos de exemplo: 
-<a href="https://github.com/abelsiqueira/tutoriais/tree/master/CUTEr/Examples">AQUI</a>)</h2>
+<a href="https://github.com/abelsiqueira/tutoriais/tree/master/CUTEr/Examples">AQUI</a>)</h4>
 
 <blockquote>
 Repositório de Problemas Restritos e Irrestritos para Programação 
@@ -21,9 +21,9 @@ Não-Linear. A principal fonte de problemas para testes da área. Permite
 interfaces em Fortran, C/C++, MatLab e Python (com outra biblioteca), e possivelmente mais.
 </blockquote>
 
-<h2><a href="http://http//www.ime.unicamp.br/~ra092767/docs/sqlite/">SQLite</a> 
+<h4><a href="http://http//www.ime.unicamp.br/~ra092767/docs/sqlite/">SQLite</a> 
 (O fonte encontra-se disponível em 
-<a href="https://github.com/r-gaia-cs/mathmind-sqlite/tree/master/assets/doc_src">github</a>)</h2>
+<a href="https://github.com/r-gaia-cs/mathmind-sqlite/tree/master/assets/doc_src">github</a>)</h4>
 
 <blockquote>
 SQLite é um gerenciador de banco de dados relacional free/open-source 
@@ -33,9 +33,9 @@ navegadores, tocadores de música/vídeo, ...) e pode ser útil para
 armazenar as informações dos testes computacionais que utiliza.
 </blockquote>
 
-<h2>git
+<h4>git
 (Ainda não está concluído. O fonte encontra-se disponível em 
-<a href="https://github.com/r-gaia-cs/aulas_gpsl/tree/master/git">github</a>.)</h2>
+<a href="https://github.com/r-gaia-cs/aulas_gpsl/tree/master/git">github</a>.)</h4>
 
 <blockquote>
 O git é um sistema para controle de versão distribuído free/open-source, 
@@ -45,7 +45,7 @@ muitos projetos (e.g., kernel do Linux, Android, Firefox, ...) e pode ser
 útil para versionar sua tese e seus artigos, além de códigos.
 </blockquote>
 
-<h2><a href="http://www.ime.unicamp.br/~ra092767/docs/sage/">Sage</a></h2>
+<h4><a href="http://www.ime.unicamp.br/~ra092767/docs/sage/">Sage</a></h4>
 
 <blockquote>
 Em poucas palavras: (Sage = Matlab em Python) ou (Sage = Mathematica em 
@@ -60,8 +60,8 @@ utiliza uma variante de Python como linguagem padrão.
 o administrador e entre nos repositórios git correspondentes abaixo:
 </p>
 
-<h2><a href="">Site</a></h2>
+<h4><a href="">Site</a></h4>
 
-<h2><a href="">Tutoriais</a></h2>
+<h4><a href="">Tutoriais</a></h4>
 
 </div>

@@ -6,17 +6,99 @@
         interesse em apresentar, podem enviar um e-mail para 
         <a href="mailto:lpoo@ime.unicamp.br">lpoo@ime.unicamp.br</a>.</p>
 
-        <h2>Cronograma</h2>
+        <hr>
+        <h1>Cronograma</h1>
         <p>Obs: O seguinte cronograma pode ser alterado sem aviso prévio.</p>
 
           <ul>
-            <li> Reuniões suspensas até encontrar novos membros. </li>
+            <li> 26/04/2013 - Abel Soares Siqueira - Dynamic Control of Infeasibility </li>
+            <li> 03/05/2013 - </li>
+            <li> 10/05/2013 - </li>
           </ul>
 
+          <hr>
           <div class="anteriores">
-            <h2>Ata das reuniões passadas</h2>
+            <h1>Ata das reuniões passadas</h1>
 
-            <h4>01 de Março de 2013 (01/03/13)</h4>
+            <h2>19 de Abril de 2013 (05/04/13) </h2>
+            <b>Ata da Reunião</b>
+              <ul>
+                <li> Discutimos a criação de uma rede de ensino e
+                  troca de informações. </li>
+              </ul>
+            <b>Palestra</b>
+            <p> Hector Flores - Aula sobre Autovalores e Autovetores </p>
+            <b>Participantes</b>
+              <ul>
+                <li> Abel Soares Siqueira </li>
+                <li> Angelo Aliano Filho </li>
+                <li> Bruno Cervelin </li>
+                <li> Daiane Gonçalves Ferreira </li>
+                <li> Deise Gonçalves Ferreira </li>
+                <li> Raniere Gaia Costa </li>
+              </ul>
+
+            <h2>12 de Abril de 2013 (12/04/13) </h2>
+            <b>Palestra</b>
+            <p> Angelo Aliano Filho 
+            (<a href="palestras/angelo.12.04.2013.pdf">download</a>)</p>
+            <b>Participantes</b>
+              <ul>
+                <li> Abel Soares Siqueira </li>
+                <li> Angelo Aliano Filho </li>
+                <li> Daiane Gonçalves Ferreira </li>
+                <li> Deise Gonçalves Ferreira </li>
+                <li> Kelly Cadena </li>
+                <li> Raniere Gaia Costa </li>
+              </ul>
+
+            <h2>05 de Abril de 2013 (05/04/13) </h2>
+            <b>Palestra</b>
+            <p> Bruno Cervelin - Sobre um Método de Minimização Irrestrita Baseado em Derivadas Simplex
+            (<a href="palestras/bruno.05.04.2013.pdf">download</a>)</p>
+            <b>Participantes</b>
+              <ul>
+                <li> Abel Soares Siqueira </li>
+                <li> Bruno Cervelin </li>
+                <li> Clayton Henrique Samora </li>
+                <li> Daiane Gonçalves Ferreira </li>
+                <li> Deise Gonçalves Ferreira </li>
+                <li> Kelly Cadena </li>
+                <li> Raniere Gaia Costa </li>
+              </ul>
+
+            <h2>22 de Março de 2013 (22/03/13) </h2>
+            <b>Ata da Reunião</b>
+              <ul>
+                <li> Anunciada a próxima reunião. </li>
+              </ul>
+            <b>Palestra</b>
+            <p> Raniere Gaia Costa - Branch \& Bound Binário
+            (<a href="palestras/raniere.22.03.2013.pdf">download</a>)</p>
+            <b>Participantes</b>
+              <ul>
+                <li> Abel Soares Siqueira </li>
+                <li> Daiane Gonçalves Ferreira </li>
+                <li> Deise Gonçalves Ferreira </li>
+                <li> Denise Trevisoli </li>
+                <li> Kelly Cadena </li>
+                <li> Raniere Gaia Costa </li>
+              </ul>
+            <h2>15 de Março de 2013 (15/03/13) </h2>
+            <b>Ata da Reunião</b>
+              <ul>
+                <li> Decidimos próximas reuniões. </li>
+                <li> Consideramos pessoas a serem chamadas para as reuniões. </li>
+              </ul>
+            <b>Participantes</b>
+              <ul>
+                <li> Abel Soares Siqueira </li>
+                <li> Daiane Gonçalves Ferreira </li>
+                <li> Deise Gonçalves Ferreira </li>
+                <li> Kelly Cadena </li>
+                <li> Raniere Gaia Costa </li>
+              </ul>
+            <h2>01 de Março de 2013 (01/03/13)</h2>
             <b>Palestra</b>
             <p> Deise Gonçalvas Ferreira - Sobre Métodos de busca padrão para 
             Minimização de funcões com Restricões Lineares
@@ -29,7 +111,7 @@
               <li> Raniere Gaia Costa </li>
             </ul>
 
-            <h4>08 de Fevereiro de 2013 (22/02/13)</h4>
+            <h2>08 de Fevereiro de 2013 (22/02/13)</h2>
             <b>Palestra</b>
             <p> Abel Soares Siqueira - Introdução ao git
             (Vídeo não ficou bom)</p>
@@ -42,7 +124,7 @@
               <li> Raniere Gaia Costa </li>
             </ul>
 
-            <h4>01 de Fevereiro de 2013 (01/02/13)</h4>
+            <h2>01 de Fevereiro de 2013 (01/02/13)</h2>
             <b>Ata da Reunião</b>
             <ul>
               <li> Declaramos interesse em encontrar mais alunos para o grupo. </li>
@@ -61,7 +143,7 @@
               <li> Raniere Gaia Costa </li>
             </ul>
 
-            <h4>07 de Dezembro de 2012 (07/12/12)</h4>
+            <h2>07 de Dezembro de 2012 (07/12/12)</h2>
             <b>Ata da Reunião</b>
             <ul>
               <li> Foi avisado que esta era a última reunião do Ano. </li>
@@ -86,7 +168,7 @@
               <li> Thadeu Senne </li>
             </ul>
 
-            <h4>30 de Novembro de 2012 (30/11/12)</h4>
+            <h2>30 de Novembro de 2012 (30/11/12)</h2>
             <b>Ata da Reunião</b>
             <ul>
               <li> Foi avisado que a última reunião será dia 07 ou 14 de dezembro, ainda a ser confirmado. </li>
@@ -108,7 +190,7 @@
               <li> Wanderson Silva </li>
             </ul>
 
-            <h4>23 de Novembro de 2012 (23/11/12)</h4>
+            <h2>23 de Novembro de 2012 (23/11/12)</h2>
             <b>Ata da Reunião</b>
             <ul>
               <li> Foi avisado que a próxima reunião será na sala 06 do prédio anexo. </li>
@@ -129,7 +211,7 @@
               <li> Thadeu Senne </li>
             </ul>
 
-            <h4>09 de Novembro de 2012 (09/11/12)</h4>
+            <h2>09 de Novembro de 2012 (09/11/12)</h2>
             <b>Ata da Reunião</b>
             <ul>
               <li> Foi avisado que o Douglas complementou o tutorial com o uso do CUTEr no Matlab, mas que
@@ -150,7 +232,7 @@
               <li> Thadeu Senne </li>
             </ul>
 
-            <h4>26 de Outubro de 2012 (26/10/12)</h4>
+            <h2>26 de Outubro de 2012 (26/10/12)</h2>
             <b>Ata da Reunião</b>
             <ul>
               <li> Temos mais gente interessada no CUTEr e sugestões de trabalho: Criar problemas infactíveis e criar algumas funções extras de acesso. </li>
@@ -177,7 +259,7 @@
               <li> Wanderson Luiz </li>
             </ul>
 
-            <h4>19 de Outubro de 2012 (19/10/12)</h4>
+            <h2>19 de Outubro de 2012 (19/10/12)</h2>
             <b>Ata da Reunião</b>
             <ul>
               <li>O Site está funcionando e já adicionamos uma seção de tutoriais.</li>
@@ -200,7 +282,7 @@
               <li> Prof. Aurélio Ribeiro </li>
             </ul>
 
-            <h4>05 de Outubro de 2012 (05/10/12)</h4>
+            <h2>05 de Outubro de 2012 (05/10/12)</h2>
             <b>Ata da Reunião</b>
             <ul> 
               <li>Foi explicado o novo funcionamento do LPOO;</li>

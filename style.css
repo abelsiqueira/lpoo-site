@@ -65,10 +65,22 @@ h1 {
   color: #ff0;
 }
 
-h2,h3,h4 {
+h2 {
+  background-color: #009;
+  font-size: 20px;
+  height: 28px;
+  text-align: center;
+  color: #ff0;
+}
+
+h3,h4 {
   font-size: 16px;
   height: 20px;
   padding-left: 20px;
+}
+
+ul {
+  text-align: left;
 }
 
 a:link, a:visited, a:hover, a:active {
